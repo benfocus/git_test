@@ -1,1 +1,2 @@
 This is the first text I have written for Github
+I wanted to add a new line to make sure that I know what I am doing 
